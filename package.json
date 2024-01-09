@@ -28,7 +28,7 @@
     "@rise-wallet/wallet-adapter": "^0.1.2",
     "@sentry/react": "^7.0.0",
     "@sentry/tracing": "^7.0.0",
-    "@tanstack/react-query": "^4.29.5",
+    "@tanstack/react-query": "^5.0.0",
     "@tp-lab/aptos-wallet-adapter": "^1.0.1",
     "@trustwallet/aptos-wallet-adapter": "^0.1.6",
     "@types/lodash": "^4.14.191",
